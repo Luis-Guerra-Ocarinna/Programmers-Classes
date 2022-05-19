@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 92df47620af36833451153263453f61033b85cc7 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652918581 -0300	commit (initial): Init Class
+92df47620af36833451153263453f61033b85cc7 0d1eac61a368ceb8ac7bd0d7af87164754e44f41 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652918813 -0300	commit: Exercise 1 - Average Age
+0d1eac61a368ceb8ac7bd0d7af87164754e44f41 66a0e93221c7d826d2863942fcd52f9b77a44fcc Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652918848 -0300	commit: Exercise 2 - Exchange Rate
+66a0e93221c7d826d2863942fcd52f9b77a44fcc fcc70ee0ec3d2275df3377cfcf7c35335b32bef7 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652918885 -0300	commit: Exercise 4 - Commission
+fcc70ee0ec3d2275df3377cfcf7c35335b32bef7 61d1a25df850ff6c27bccf7378c00bbc75e32d13 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652919002 -0300	commit (amend): Exercise 3 - Commission
+61d1a25df850ff6c27bccf7378c00bbc75e32d13 d35be5194f9a712f95a67d6c60a78a8a447f5fba Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652919050 -0300	commit: Exercise 4 - Celsius To Fahrenheit
+d35be5194f9a712f95a67d6c60a78a8a447f5fba 09a7858d225f835ceb00d98e00ef764cdc07e83c Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652919079 -0300	commit: Exercise 4 - Fahrenheit To Celsius]
+09a7858d225f835ceb00d98e00ef764cdc07e83c 5ea3ce485a3e9cae151639347e60566031f44646 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652919093 -0300	commit (amend): Exercise 4 - Fahrenheit To Celsius
+5ea3ce485a3e9cae151639347e60566031f44646 92df47620af36833451153263453f61033b85cc7 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652919115 -0300	checkout: moving from main to 92df47620af36833451153263453f61033b85cc7
+92df47620af36833451153263453f61033b85cc7 5ea3ce485a3e9cae151639347e60566031f44646 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652919159 -0300	checkout: moving from 92df47620af36833451153263453f61033b85cc7 to main
+5ea3ce485a3e9cae151639347e60566031f44646 92df47620af36833451153263453f61033b85cc7 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920715 -0300	checkout: moving from main to 92df476
+92df47620af36833451153263453f61033b85cc7 2940451d280c2cf90a5c560b8881c238d1fe5632 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920777 -0300	commit (amend): Init Class
+2940451d280c2cf90a5c560b8881c238d1fe5632 5ea3ce485a3e9cae151639347e60566031f44646 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920798 -0300	checkout: moving from 2940451d280c2cf90a5c560b8881c238d1fe5632 to main
+5ea3ce485a3e9cae151639347e60566031f44646 2940451d280c2cf90a5c560b8881c238d1fe5632 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (start): checkout tmp
+2940451d280c2cf90a5c560b8881c238d1fe5632 3e2888bb905e59fd035108bc5a247459eb954a5a Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (pick): Exercise 1 - Average Age
+3e2888bb905e59fd035108bc5a247459eb954a5a 7a39867903bf397a6b258113a544054d5cf7124d Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (pick): Exercise 2 - Exchange Rate
+7a39867903bf397a6b258113a544054d5cf7124d 3f6d8e0ff0701f4d44b7438f2e09622842d71896 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (pick): Exercise 3 - Commission
+3f6d8e0ff0701f4d44b7438f2e09622842d71896 1055c061595b07c9b45a28b1826efdd8975b5e45 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (pick): Exercise 4 - Celsius To Fahrenheit
+1055c061595b07c9b45a28b1826efdd8975b5e45 cae96db83caffd5ff0ac88d6a769c373a737a874 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (pick): Exercise 4 - Fahrenheit To Celsius
+cae96db83caffd5ff0ac88d6a769c373a737a874 cae96db83caffd5ff0ac88d6a769c373a737a874 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (finish): returning to refs/heads/main
+cae96db83caffd5ff0ac88d6a769c373a737a874 5898b1fc26a3d5da2371aab40884ae1a441b2409 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920863 -0300	commit (amend): Exercise 5 - Fahrenheit To Celsius
