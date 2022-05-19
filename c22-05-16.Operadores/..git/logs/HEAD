@@ -19,3 +19,8 @@ d35be5194f9a712f95a67d6c60a78a8a447f5fba 09a7858d225f835ceb00d98e00ef764cdc07e83
 1055c061595b07c9b45a28b1826efdd8975b5e45 cae96db83caffd5ff0ac88d6a769c373a737a874 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (pick): Exercise 4 - Fahrenheit To Celsius
 cae96db83caffd5ff0ac88d6a769c373a737a874 cae96db83caffd5ff0ac88d6a769c373a737a874 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920822 -0300	rebase (finish): returning to refs/heads/main
 cae96db83caffd5ff0ac88d6a769c373a737a874 5898b1fc26a3d5da2371aab40884ae1a441b2409 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652920863 -0300	commit (amend): Exercise 5 - Fahrenheit To Celsius
+5898b1fc26a3d5da2371aab40884ae1a441b2409 508ed184eac814a6cc5da58aadc23f0f9426e03e Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652968047 -0300	commit: Exercise 6 - IBW Male
+508ed184eac814a6cc5da58aadc23f0f9426e03e fcab40bba7a36c3523aa68c6271550011c9f83ab Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652968095 -0300	commit: Exercise 7 - Final Grade
+fcab40bba7a36c3523aa68c6271550011c9f83ab 407e11241f003990c679bdb1c6a14888e217a3d0 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652968134 -0300	commit: Exercise 8 - Sub
+407e11241f003990c679bdb1c6a14888e217a3d0 b5f3826a345f9b74aebca79412ef3447b472d9d0 Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652968150 -0300	commit: Exercise 9 - Div
+b5f3826a345f9b74aebca79412ef3447b472d9d0 b582234feb94d6a91c3219e4eceb1185277aae7b Luis Guerra Santa Rosa <luis.rosa@programmers.com.br> 1652972553 -0300	commit: Exercise 10 - User Interaction
